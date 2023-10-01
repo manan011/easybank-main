@@ -1,0 +1,24 @@
+{
+  "name": "easybank-landing-page-using-tailwindcss",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Easybank landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bagggary/easybank-landing-page-using-tailwindCss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bagggary/easybank-landing-page-using-tailwindCss/issues"
+  },
+  "homepage": "https://github.com/bagggary/easybank-landing-page-using-tailwindCss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
